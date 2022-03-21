@@ -1,4 +1,5 @@
 {
+"newVersion": "2",
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
 "versionNotes":"
 • Fixed Android 12 Crashes
