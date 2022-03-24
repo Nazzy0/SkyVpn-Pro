@@ -1,1 +1,9 @@
-Gqyq
+{
+"newVersion": "10",
+"apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
+"versionNotes":"
+• Fixed Android 12 Crashes
+• Fixed Add Timer
+• Fixed Custom Setup
+"
+}
